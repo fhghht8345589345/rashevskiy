@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header_top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.container{
+    width: 95%;
+   margin: 0 auto;
+}
+
+.header_right{
+display: flex;
+align-items: center;
+
+}
+
+.text{
+padding: 30px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #004BD6;
+
+}
+
+.button{
+width: 281px;
+height: 54px;
+background:rgb(0, 27, 102);
+color: rgb(255, 255, 255);
+display: flex;
+justify-content: center;
+align-items: center;
+ 
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+
+
+
+
+
+
+
