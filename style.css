@@ -65,8 +65,9 @@ color: aliceblue;
 }
 
 #gg1{
-width: 50PX;
-height: 50px;
+width: 80PX;
+height: 80px;
+
 }
 
 #kufi{
@@ -91,5 +92,39 @@ left: 45px;
 top: 190px;
 background: #6112c2;
 border-radius: 20px;
+transition: 1s;
 
+}
+
+#gg{
+position: absolute;
+left: 60px;
+top: 70px;
+
+}
+
+#ENG{
+    position: absolute;
+    left: 60px;
+    top: 40px;
+}
+#blerinacapuchino{
+    position: absolute;
+    left: 73px;
+    top: 165px;
+}
+.money{
+width: 20px;
+height: 20px;
+position: absolute;
+right: 820px;
+top: 320px;
+color: rgb(255, 251, 251);
+}
+
+
+
+
+#button:hover{
+    transform: scale(1.3);
 }
